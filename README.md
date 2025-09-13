@@ -21,8 +21,7 @@ It is built using **Java Swing**, **JDBC**, and **MySQL** as the database.
 - **IDE:** IntelliJ IDEA
 - **External Library:** rs2xml.jar (for displaying ResultSet in JTable)
 
-## 🎥 Demo Video
-You can watch the demo of this project here:  
+ 
 
 
 
@@ -30,20 +29,4 @@ You can watch the demo of this project here:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Manojyadav72/EmployeePayrollSystem.git
-
-
-   EmployeePayrollSystem/
-│── src/
-│   ├── employee/management/system/
-│   │   ├── Main_class.java
-│   │   ├── AddEmployee.java
-│   │   ├── View_Employee.java
-│   │   ├── UpdateEmployee.java
-│   │   ├── RemoveEmployee.java
-│   │   └── conn.java
-│── lib/
-│   └── rs2xml.jar
-│── demo/
-│   └── screenshot1.png
-│── README.md
 
